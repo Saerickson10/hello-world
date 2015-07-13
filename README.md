@@ -1,3 +1,3 @@
 # hello-world
 no. 1
-My first commit.
+text of my first commit.
